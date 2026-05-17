@@ -68,3 +68,25 @@ Run all cells in order. Output images are saved automatically to `results/` and 
 
 **Domain: Manufacturing — Visual Defect Inspection**  
 This system can be integrated into a production line camera to inspect 100% of products in real time, replacing slow and error-prone manual sampling checks.
+
+---
+
+## 🔗 Data Source
+
+**Dataset provided by:** Masai School — Module 5 Assignment Dataset Pack
+
+**Google Drive Link:** [https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing](https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing)
+
+**Dataset used in this part:**
+
+| File | Description |
+|---|---|
+| `images/normal/` | 120 PNG images of normal (defect-free) surfaces |
+| `images/scratch/` | 120 PNG images of scratch defects |
+| `images/dent/` | 120 PNG images of dent defects |
+| `images/stain/` | 120 PNG images of stain defects |
+| `labels.csv` | Image filename to class label mapping (480 rows) |
+| `data_dictionary.md` | Column descriptions for `labels.csv` |
+
+> Located inside: `part_2_cnn_computer_vision/` folder in the shared Drive.
+
