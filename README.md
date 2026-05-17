@@ -75,7 +75,7 @@ This system can be integrated into a production line camera to inspect 100% of p
 
 **Dataset provided by:** Masai School — Module 5 Assignment Dataset Pack
 
-**Google Drive Link:** [https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing](https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing)
+**Google Drive Link:**  https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
 
 **Dataset used in this part:**
 
